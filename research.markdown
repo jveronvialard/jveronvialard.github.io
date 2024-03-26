@@ -13,7 +13,10 @@ permalink: /research/
 - NVIDIA GTC 2022 (March 22, 2022). "Copilot for Splunk: Using Massive Language Models for Query Generation on Morpheus" (S41688).
 - IEEE ISBI 2021 (April 14, 2021). ["Going Beyond Voxel-Wise Deconvolution in Perfusion MRI with StU-Net"](https://www.researchgate.net/publication/348961375_Going_beyond_voxel-wise_deconvolution_in_perfusion_MRI_with_stU-Net) (WePMP3.10), and ["A Lightweight Method to Simulate Low-Dose DSC-Perfusion Sequences"](https://www.researchgate.net/publication/348961528_A_lightweight_method_to_simulate_low-dose_DSC-perfusion_sequences) (WePMP3.9).
 
-# Blogs
+# Personal Blogs
+- [Julien’s Personal Blog](https://jveronvialard.substack.com/)
+
+# Company Blogs
 - ["Building an AI Assistant for Splunk"](https://www.splunk.com/en_us/blog/it/building-an-ai-assistant-for-splunk.html).
 - ["Training a 'Copilot' for Splunk SPL and Increasing Model Throughput by 5x With NVIDIA Morpheus"](https://www.splunk.com/en_us/blog/it/training-a-copilot-for-splunk-spl-and-increasing-model-throughput-by-5x-with-nvidia-morpheus.html).
 
