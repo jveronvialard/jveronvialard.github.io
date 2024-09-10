@@ -12,7 +12,7 @@ permalink: /blog/
 - [LLMs Fundamentals](https://jveronvialard.substack.com/p/llms-fundamentals)
 - [Optimizing Large Language Models for Inference](https://jveronvialard.substack.com/p/optimizing-large-language-models)
 
-For more insights, visit [Julien’s Personal Blog](https://jveronvialard.substack.com/), and enter your emails for updates!
+For more insights, visit my [Substack blog](https://jveronvialard.substack.com/).
 
 # Company Blogs
 - ["Building an AI Assistant for Splunk"](https://www.splunk.com/en_us/blog/it/building-an-ai-assistant-for-splunk.html).
