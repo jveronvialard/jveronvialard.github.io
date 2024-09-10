@@ -25,5 +25,5 @@ I hold a Master of Science in Computational Mathematics from Stanford University
 </p>
 
 <p style='text-align: justify;'>
-In my spare time, I enjoy reading (novels, sci-fi, essays, manga), skiing (having competed in France), and collecting vintage watches. In early 2024, I launched a personal <a href="https://www.splunk.com/en_us/blog/author/jveronvialard.html">Substack blog</a> to share my insights on large language models. Feel free to explore it!
+In my spare time, I enjoy reading (novels, sci-fi, essays, manga), skiing (having competed in France), and collecting vintage watches. In early 2024, I launched a personal <a href="https://jveronvialard.substack.com">Substack blog</a> to share my insights on large language models. Feel free to explore it!
 </p>
