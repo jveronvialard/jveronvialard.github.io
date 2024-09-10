@@ -9,13 +9,21 @@ layout: home
 <br>
 
 <p style='text-align: justify;'>
-Hi there! I'm a Senior Machine Learning Engineer at NVIDIA, working on large language models. I have experience in distributed training and memory efficient fine-tuning of large (10+ billion parameters) language models, and in building and deploying systems around them. Broadly, my experience spans the entire research-to-deployment cycle, including ideation, product deployment, and maintenance, and I am proficient in collaborating with cross-functional technical and non-technical teams for prototyping new products.
-
-Before joining NVIDIA, I worked for 2.5 years as a Senior Applied Machine Learning Scientist at Splunk (acquired by Cisco in March 2024). There, I trained and deployed large language models for Splunk's query language code generation and explanation, with a focus on distributed and parameter efficient training. I also contributed to 4 patents, I gave technical talks at both Splunk .conf22 and NVIDIA GTC March 2022 conferences, and I wrote 2 technical blogs accompanying product releases: https://www.splunk.com/en_us/blog/author/jveronvialard.html.
-
-Before coming to Splunk, I studied Computational Mathematics at Stanford University. There, I was a part-time graduate research assistant in a biostatistic research lab, and I interned as a computer vision researcher at Guerbet, a pharmaceutical company.
+Hi!
 </p>
 
 <p style='text-align: justify;'>
-During my free time, I am an avid reader (novels, sci-fi, essays, mangas, etc.), a huge fan of skiing (I participated in a couple competitions a while back in France), and a vintage watch lover. Early 2024, I started my personal blog to share my experience with large language models: https://jveronvialard.substack.com/. Check it out and if interested do enter your email to receive updates about new posts :)
+I'm a Senior Machine Learning Engineer at NVIDIA, specializing in large language models and with a proven track record of building next-generation AI products. My expertise includes memory-efficient and distributed LLM training, reliable and consistent LLM evaluation, and industrial-scale AI solutions. I've contributed to multiple patents and successful product launches. My experience spans the full research-to-deployment cycle, including ideation, product design, development, deployment, and ongoing maintenance, often working with cross-functional teams to drive innovation.
+</p>
+
+<p style='text-align: justify;'>
+Before joining NVIDIA, I worked for 2.5 years as a Senior Applied Machine Learning Scientist at Splunk (acquired by Cisco in March 2024). During my time there, I trained and deployed large language models for query language code generation and explanation, with a focus on distributed and parameter-efficient training. I contributed to seven patents, delivered technical talks at Splunk .conf22 and NVIDIA GTC 2022, and authored two technical blogs, which can be found here: https://www.splunk.com/en_us/blog/author/jveronvialard.html.
+</p>
+
+<p style='text-align: justify;'>
+I hold a Master of Science in Computational Mathematics from Stanford University, where I worked as a part-time graduate research assistant in a biostatistics lab and interned as a computer vision researcher at Guerbet, a pharmaceutical company.
+</p>
+
+<p style='text-align: justify;'>
+In my spare time, I enjoy reading (novels, sci-fi, essays, manga), skiing (having competed in France), and collecting vintage watches. In early 2024, I launched a personal blog to share my insights on large language models: https://jveronvialard.substack.com/. Feel free to explore it and enter your email for updates!
 </p>
