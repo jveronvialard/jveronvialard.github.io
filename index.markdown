@@ -21,7 +21,7 @@ Before joining NVIDIA, I worked for 2.5 years as a Senior Applied Machine Learni
 </p>
 
 <p style='text-align: justify;'>
-I hold a Master of Science in Computational Mathematics from Stanford University, where I worked as a part-time graduate research assistant in a biostatistics lab and interned as a computer vision researcher at Guerbet, a pharmaceutical company.
+I hold a Master of Science in Computational and Mathematical Engineering from Stanford University, where I worked as a part-time graduate research assistant in a biostatistics lab and interned as a computer vision researcher at Guerbet, a pharmaceutical company.
 </p>
 
 <p style='text-align: justify;'>
