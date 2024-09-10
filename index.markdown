@@ -17,7 +17,7 @@ I'm a Senior Machine Learning Engineer at NVIDIA, specializing in large language
 </p>
 
 <p style='text-align: justify;'>
-Before joining NVIDIA, I worked for 2.5 years as a Senior Applied Machine Learning Scientist at Splunk (acquired by Cisco in March 2024). During my time there, I trained and deployed large language models for query language code generation and explanation, with a focus on distributed and parameter-efficient training. I contributed to seven patents, delivered technical talks at Splunk .conf22 and NVIDIA GTC 2022, and authored [two technical blogs](https://www.splunk.com/en_us/blog/author/jveronvialard.html).
+Before joining NVIDIA, I worked for 2.5 years as a Senior Applied Machine Learning Scientist at Splunk (acquired by Cisco in March 2024). During my time there, I trained and deployed large language models for query language code generation and explanation, with a focus on distributed and parameter-efficient training. I contributed to seven patents, delivered technical talks at Splunk .conf22 and NVIDIA GTC 2022, and authored <a href="https://www.splunk.com/en_us/blog/author/jveronvialard.html">two technical blogs</a>.
 </p>
 
 <p style='text-align: justify;'>
@@ -25,5 +25,5 @@ I hold a Master of Science in Computational Mathematics from Stanford University
 </p>
 
 <p style='text-align: justify;'>
-In my spare time, I enjoy reading (novels, sci-fi, essays, manga), skiing (having competed in France), and collecting vintage watches. In early 2024, I launched a personal [Substack blog](https://jveronvialard.substack.com/) to share my insights on large language models. Feel free to explore it and enter your email for updates!
+In my spare time, I enjoy reading (novels, sci-fi, essays, manga), skiing (having competed in France), and collecting vintage watches. In early 2024, I launched a personal <a href="https://www.splunk.com/en_us/blog/author/jveronvialard.html">Substack blog</a> to share my insights on large language models. Feel free to explore it!
 </p>
